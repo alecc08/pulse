@@ -1,0 +1,19 @@
+{
+  "name": "pulsr",
+  "version": "0.0.1",
+  "description": "Server pulse information in Angular + NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alecc08/pulsr.git"
+  },
+  "author": "alecc08",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alecc08/pulsr/issues"
+  },
+  "homepage": "https://github.com/alecc08/pulsr#readme"
+}
