@@ -1,5 +1,5 @@
 # pulsr 
-[![Build Status](http://alserv:8080/job/alecc08/job/pulsr/job/master/badge/icon?style=plastic)](http://alserv:8080/job/alecc08/job/pulsr/job/master/)
+![Build Status](http://alserv:8080/job/alecc08/job/pulsr/job/master/badge/icon?style=plastic)
 
 Angular + NodeJS project to get the "pulse" of a server.
 
