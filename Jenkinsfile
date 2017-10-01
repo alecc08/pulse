@@ -8,6 +8,6 @@ node {
     }
 
     stage("Cleanup") {
-        sh "rm -rf node_modules"
+        deleteDir()
     }
 }
