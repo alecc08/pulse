@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alecc08/pulsr/issues"
   },
-  "homepage": "https://github.com/alecc08/pulsr#readme"
+  "homepage": "https://github.com/alecc08/pulsr#readme",
+  "dependencies": {
+    "express": "^4.15.5"
+  }
 }
