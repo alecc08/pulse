@@ -2,8 +2,8 @@ node {
     stage("Checkout scm") {
         checkout scm
     }
-    stage("Echo") {
-        echo "Hello!"
+    stage("Npm install") {
+        echo "Installing!"
         sh "npm install"
     }
 

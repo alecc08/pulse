@@ -18,5 +18,8 @@
   "homepage": "https://github.com/alecc08/pulsr#readme",
   "dependencies": {
     "express": "^4.15.5"
+  },
+  "devDependencies": {
+    "express": "^4.16.1"
   }
 }
