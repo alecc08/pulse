@@ -1,4 +1,4 @@
-# pulsr 
+# Pulse Dashboard
 
 ### What this is
 Angular + NodeJS dashboard project to get the "pulse" of a server. Call the pulse REST api to get what services are running and what their statuses are. 
