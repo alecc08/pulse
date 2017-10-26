@@ -1,5 +1,7 @@
 # Pulse Dashboard
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/37d8faadd6fa45aba12e8a7b84929cd1)](https://www.codacy.com/app/alecc/pulse?utm_source=github.com&utm_medium=referral&utm_content=alecc08/pulse&utm_campaign=badger)
+
 ### What this is
 Angular + NodeJS dashboard project to get the "pulse" of a server. Call the pulse REST api to get what services are running and what their statuses are. 
 
